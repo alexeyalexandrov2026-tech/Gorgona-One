@@ -1,15 +1,13 @@
-{
-  "name": "gorgona-one",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
+import Header from './components/Header';
+
+export default function Home() {
+  return (
+    <main>
+      <Header />
+      <div>
+        <h1>Welcome to Gorgona One</h1>
+        <p>This is your Next.js application with Vercel Analytics enabled.</p>
+      </div>
+    </main>
+  );
 }
