@@ -1,15 +1,8 @@
-{
-  "name": "gorgona-one",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  }
+export default function Page() {
+  return (
+    <main>
+      <h1>Gorgona One</h1>
+      <p>Welcome to the site.</p>
+    </main>
+  );
 }
