@@ -1,0 +1,336 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/_not-found/page-26820746f3ad6c26.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/css/276610dfc30289a1.css",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/layout-83a09ae9b3342619.js"
+    ],
+    "/affiliate-disclosure/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/affiliate-disclosure/page-6f11dfcb8b3d3dc3.js"
+    ],
+    "/ai-ready/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/ai-ready/page-635a243180be7ba2.js"
+    ],
+    "/admin/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/admin/page-acbc7f8fce6c6f13.js"
+    ],
+    "/best-shopping-deals/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/best-shopping-deals/page-a0ba36f7abbde223.js"
+    ],
+    "/amazon-promo-codes/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/amazon-promo-codes/page-963098642ceca910.js"
+    ],
+    "/betmgm-promos/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/betmgm-promos/page-93b7032c628394ff.js"
+    ],
+    "/caesars-sportsbook-promos/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/caesars-sportsbook-promos/page-e78e1cf887017374.js"
+    ],
+    "/coupons/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/coupons/page-1ab2236ff6f30365.js"
+    ],
+    "/draftkings-promos/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/draftkings-promos/page-2c53bfd42ba07069.js"
+    ],
+    "/fanduel-promos/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/fanduel-promos/page-a152b419509bdeee.js"
+    ],
+    "/cookie-policy/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/cookie-policy/page-96998378a7186207.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/login/page-6e263d4854e281a6.js"
+    ],
+    "/fashion-discounts/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/fashion-discounts/page-ae7160a8f0b22a84.js"
+    ],
+    "/nike-coupons/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/nike-coupons/page-bc4cbe9dc1dfa709.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/page-cf003ce6bdb41c34.js"
+    ],
+    "/partner-agreement/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/partner-agreement/page-2f4897b5e508c0c4.js"
+    ],
+    "/partner/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/partner/page-c0cc8dca71c7e1d0.js"
+    ],
+    "/privacy/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/privacy/page-3e1b4681bee7f669.js"
+    ],
+    "/rentals/[slug]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/rentals/[slug]/page-db35928569991d2f.js"
+    ],
+    "/rentals/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/rentals/page-720f0f721bd5dd2b.js"
+    ],
+    "/profile/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/profile/page-a61711ea06028880.js"
+    ],
+    "/sports-betting-promos/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/sports-betting-promos/page-458ee1b9e28a066a.js"
+    ],
+    "/sportsbook/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/sportsbook/page-12944e4b180e4dd2.js"
+    ],
+    "/stores/beauty/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/beauty/page-79898271521faea4.js"
+    ],
+    "/stores/betting/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/betting/page-1f4dcd0d1e8d992b.js"
+    ],
+    "/stores/electronics/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/electronics/page-757186ba0dd2ae26.js"
+    ],
+    "/stores/entertainment/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/entertainment/page-e8272f66d8712b7e.js"
+    ],
+    "/stores/fashion/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/fashion/page-dacadad6ceff23f3.js"
+    ],
+    "/stores/food/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/food/page-da2b423179c769e4.js"
+    ],
+    "/stores/home/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/home/page-c606115494b9793d.js"
+    ],
+    "/stores/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/page-e441c29068ee8292.js"
+    ],
+    "/stores/restaurants/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/restaurants/page-1981d127d0e1841f.js"
+    ],
+    "/stores/shopping/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/shopping/page-b4cc28358c11b27e.js"
+    ],
+    "/stores/sport/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/sport/page-3fbc239722d49bfc.js"
+    ],
+    "/stores/travel/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/travel/page-4ff389dcd10bbded.js"
+    ],
+    "/terms/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/terms/page-cdde9d02d76f3bea.js"
+    ],
+    "/brands/[slug]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/app/brands/[slug]/page-8c2137fd5e909c18.js"
+    ],
+    "/sportsbook/[slug]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/sportsbook/[slug]/page-8c0f5266968e78ed.js"
+    ],
+    "/deals/[slug]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/app/deals/[slug]/page-189a055ca186a8a6.js"
+    ],
+    "/stores/[category]/page": [
+      "static/chunks/webpack-18a548a87706f5f2.js",
+      "static/chunks/fd9d1056-2e4156d2e251a024.js",
+      "static/chunks/2117-7a127e771880d347.js",
+      "static/chunks/main-app-229910ea3a1e9b59.js",
+      "static/chunks/2972-8d2001c9bfe70d4f.js",
+      "static/chunks/2677-8ca68010fd11e883.js",
+      "static/chunks/app/stores/[category]/page-de0ab0ab1302b4cc.js"
+    ]
+  }
+}
